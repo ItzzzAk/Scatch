@@ -1,0 +1,17 @@
+
+@font-face {
+    font-family: HellR;
+    src: url(../fonts/helvetica-255/Helvetica.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: HellR;
+}
+html,
+body {
+  height: 100%;
+  width: 100%;
+}
